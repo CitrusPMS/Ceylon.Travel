@@ -88,7 +88,7 @@ export default function Header3({ variant } : any ) {
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
             <Link className="cs_site_branding" href="/">
-                <Image src="https://ceylontravel.s3.us-east-1.amazonaws.com/logo_w2.svg" alt="img" width={140} height={75}   />
+                <Image src="https://ceylontravel.s3.us-east-1.amazonaws.com/logo_w2.svg" alt="img" width={120} height={75}   />
               </Link>
               </div>
               <div className="cs_main_header_center">
